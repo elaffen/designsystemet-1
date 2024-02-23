@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.51.0](https://github.com/digdir/designsystemet/compare/@digdir/design-system-react@0.50.0...@digdir/design-system-react@0.51.0) (2024-02-23)
+
+### Features
+
+- **Combobox:** Add `forwardRef` to input ([#1553](https://github.com/digdir/designsystemet/issues/1553)) ([efc3f2c](https://github.com/digdir/designsystemet/commit/efc3f2c967bc7e17ad236c9ac6512a7661f32ed2))
+- **Combobox:** Always display selected values ([bcbb68a](https://github.com/digdir/designsystemet/commit/bcbb68aab3ed957280414ff67fee36f4449e5098))
+- **Modal:** Make sub-components composable ([#1556](https://github.com/digdir/designsystemet/issues/1556)) ([e0159ae](https://github.com/digdir/designsystemet/commit/e0159ae97eeb8e74d5e5ea1ff67b12746cd313b6))
+- **Pagination:** Add new component API ([#1524](https://github.com/digdir/designsystemet/issues/1524)) ([b43ee0d](https://github.com/digdir/designsystemet/commit/b43ee0d5ca84eda4f232c77ee623e9fcdd15b2b0))
+
 # [0.50.0](https://github.com/digdir/designsystemet/compare/@digdir/design-system-react@0.49.0...@digdir/design-system-react@0.50.0) (2024-02-19)
 
 ### Bug Fixes
