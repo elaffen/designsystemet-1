@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.0.0-next.48
+
+### Minor Changes
+
+- Upgrade to React 19 and other related dependencies ([#2964](https://github.com/digdir/designsystemet/pull/2964))
+
+### Patch Changes
+
+- fix: Use correct DOM property for Popover API when used in React 19 ([#3010](https://github.com/digdir/designsystemet/pull/3010))
+
 ## 1.0.0-next.47
 
 ## 1.0.0-next.46
