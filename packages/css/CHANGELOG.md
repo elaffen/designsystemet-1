@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.0-next.48
+
+### Patch Changes
+
+- Chip: avoid reassigning custom properties ([#3019](https://github.com/digdir/designsystemet/pull/3019))
+
 ## 1.0.0-next.47
 
 ## 1.0.0-next.46

@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.0-next.48
+
+### Minor Changes
+
+- Rename config option from `--json` to `--config` ([#3012](https://github.com/digdir/designsystemet/pull/3012))
+
 ## 1.0.0-next.47
 
 ### Minor Changes
